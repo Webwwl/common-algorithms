@@ -1,2 +1,2 @@
-# webpack-template
-webpack快速搭建模板
+# common-algorithms
+常见算法
